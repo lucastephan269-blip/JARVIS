@@ -1,7 +1,7 @@
 JARVIS v3.0 – Standalone HTML (KEIN API-KEY NÖTIG)
 ==================================================
 
-1. JARVIS.html herunterladen.
+1. index.html herunterladen.
 2. Datei mit Chrome oder Edge öffnen (Doppelklick genügt).
 3. Boot-Sequenz abwarten -> Mikrofon-Freigabe erlauben.
 4. FERTIG. Tippen, sprechen oder das Terminal benutzen.
